@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicación Curso</string>
+    <string name="mainact_btn_entrar">Entrar</string>
+    <string name="mainact_btn_registo">Registrarse</string>
+    <string name="mainact_tv_versionApp">v1.0</string>
+    <string name="mainact_et_email">Email</string>
+    <string name="mainact_et_pass">Contraseña</string>
+</resources>

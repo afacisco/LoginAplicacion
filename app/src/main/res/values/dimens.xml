@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mainact_margintop_logo">100dp</dimen>
+    <dimen name="mainact_tam_logo">200dp</dimen>
+    <dimen name="mainact_margin_items_form">16dp</dimen>
+</resources>
